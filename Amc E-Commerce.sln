@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Amc E-Commerce", "Amc E-Commerce\Amc E-Commerce.csproj", "{35056E0B-50E1-4707-9DB7-3CB34900D714}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35056E0B-50E1-4707-9DB7-3CB34900D714}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35056E0B-50E1-4707-9DB7-3CB34900D714}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35056E0B-50E1-4707-9DB7-3CB34900D714}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35056E0B-50E1-4707-9DB7-3CB34900D714}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 2
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Amc\u0020E-Commerce\\Amc\u0020E-Commerce.csproj
+		SccLocalPath1 = .
+		SccProjectFilePathRelativizedFromConnection1 = Amc\u0020E-Commerce\\
+	EndGlobalSection
+EndGlobal
